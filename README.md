@@ -230,3 +230,5 @@ Your support helps improve visibility and motivates future maintenance.
 <div align="center">
   <sub>Built as a college project · Grown into a community resource · Maintained with ❤️</sub>
 </div>
+#   E - c o m m e r c e - p r o j e c t  
+ 
